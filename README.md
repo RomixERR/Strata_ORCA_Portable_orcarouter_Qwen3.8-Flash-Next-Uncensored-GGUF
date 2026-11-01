@@ -1,4 +1,4 @@
-# Strata ORCA IQ3_XXS — Portable Build
+# Strata ORCA IQ3_XXS — Portable Server Build
 
 A portable Strata ORCA build featuring the **Qwen3.8-Flash-Next-Uncensored IQ3_XXS** model.
 
