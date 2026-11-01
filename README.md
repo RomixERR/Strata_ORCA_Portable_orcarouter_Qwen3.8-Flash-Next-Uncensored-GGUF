@@ -2,6 +2,9 @@
 
 A portable Strata ORCA build featuring the **Qwen3.8-Flash-Next-Uncensored IQ3_XXS** model.
 
+[RomixERR/Strata_ORCA_Portable_orcarouter_Qwen3.8-Flash-Next-Uncensored-GGUF](https://huggingface.co/buckets/RomixERR/Strata_ORCA_Portable_orcarouter_Qwen3.8-Flash-Next-Uncensored-GGUF)
+
+
 The build supports **Vision** and **Tools** and provides an OpenAI-compatible API.
 
 ## System Requirements
